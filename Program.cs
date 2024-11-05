@@ -6,7 +6,7 @@ namespace Complaintform
         {
             // INITIALISING OBJECTS
             
-            //UI ui = new UI(); -Neo Code
+            UI Ui = new UI(); //-Neo Code
             //ui.Run();
 
 
@@ -15,11 +15,14 @@ namespace Complaintform
             // DEFINING UTILITY VARIABLES
 
             string question;
+            string answer;
 
             // MAIN LOOP
             while (Reader.GetIndex() <= Reader.GetMaxLength())
             {
                 question = Reader.Read();
+                answer = Ui.Ask(question); // !!!Neo bitte mach d antwort so
+
             }
 
 

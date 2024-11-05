@@ -34,7 +34,7 @@ namespace Complaintform
 
             app.Run();
 
-            public string Ask(string, out string)
+            public string Ask(string)
             {
                 return "hello";
             }

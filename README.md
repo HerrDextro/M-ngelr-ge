@@ -9,7 +9,20 @@ Planung 05.11.2024
 
 # Grob Planung 05.11.2024
 
-- [ ] Brainstorm
-- [ ] Mindmap/Programmkonzept
+- [x] Brainstorm
+- [x] Mindmap/Programmkonzept
 - [ ] Technische Anforderungsliste (mit konkrete Ein/Ausgaben)
-- [ ] Arbeit verteilen
+- [x] Arbeit verteilen
+
+Joshua:
+- [ ] PDF sender class
+- [ ] convert 
+
+Alex:
+- [ ] Question reader
+- [ ] PDF maker (not PDF but .txt for now)
+
+Neo:
+- [ ] Create ASP.NET project
+- [ ] 
+

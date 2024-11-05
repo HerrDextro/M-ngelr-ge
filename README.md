@@ -23,6 +23,7 @@ Alex:
 - [ ] PDF maker (not PDF but .txt for now)
 
 Neo:
-- [ ] Create ASP.NET project
-- [ ] 
+- [x] Create ASP.NET project
+- [ ] Create Git Main Brach mit Projekt
+- [ ] Create Program.cs and UI.cs
 

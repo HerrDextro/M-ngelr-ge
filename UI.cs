@@ -2,7 +2,7 @@ namespace Complaintform
 {
     public class UI
     {
-        public static void Run()
+        public void Run()
         {
             var builder = WebApplication.CreateBuilder();
 

@@ -22,6 +22,7 @@ namespace Complaintform
             {
                 question = Reader.Read();
                 answer = Ui.Ask(question); // !!!Neo bitte mach d antwort so
+                Console.WriteLine(answer);
 
             }
 

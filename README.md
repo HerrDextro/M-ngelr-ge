@@ -31,5 +31,5 @@ Neo:
 Notizen:
 - kein PDF sonder Word als ausgabe
 - Mängelrüge Typ ist Dienstleistung
-- 
+- change run to Main and run current document csproj instead of current document
 

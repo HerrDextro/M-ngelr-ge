@@ -4,11 +4,23 @@ namespace Complaintform
     {
         static void Main(string[] args)
         {
-            UI ui = new UI();
-            ui.Run();
+            // INITIALISING OBJECTS
+            
+            //UI ui = new UI(); -Neo Code
+            //ui.Run();
 
 
+            QuestionReader Reader = new QuestionReader();
 
+            // DEFINING UTILITY VARIABLES
+
+            string question;
+
+            // MAIN LOOP
+            while (Reader.GetIndex() <= Reader.GetMaxLength())
+            {
+                question = Reader.Read();
+            }
 
 
         }

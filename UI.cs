@@ -34,10 +34,11 @@ namespace Complaintform
 
             app.Run();
 
-            public string Ask(string fred)
-            {
-                return "hello";
-            }
+           
+        }
+        public string Ask(string)
+        {
+            return "hello";
         }
     }
 }

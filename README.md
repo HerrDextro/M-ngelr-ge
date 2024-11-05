@@ -15,8 +15,9 @@ Planung 05.11.2024
 - [x] Arbeit verteilen
 
 Joshua:
-- [ ] PDF sender class
-- [ ] convert 
+- [ ] "PDF" sender class
+- [ ] convert .txt to word (word for now)
+- [ ] Kommunikation: fragen, ob email mit PDF als Ausgabe ok ist (bis 09.11.2024)
 
 Alex:
 - [ ] Question reader
@@ -26,4 +27,9 @@ Neo:
 - [x] Create ASP.NET project
 - [ ] Create Git Main Brach mit Projekt
 - [ ] Create Program.cs and UI.cs
+
+Notizen:
+- kein PDF sonder Word als ausgabe
+- Mängelrüge Typ ist Dienstleistung
+- 
 

@@ -1,5 +1,9 @@
 var builder = WebApplication.CreateBuilder(args);
 
+
+
+Console.WriteLine("test");
+
 // Add services to the container.
 builder.Services.AddRazorPages();
 
@@ -23,3 +27,4 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+

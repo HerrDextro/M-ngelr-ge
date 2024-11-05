@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 
-Console.WriteLine("test");
+Console.WriteLine("test"); //to see if repo is working like intended
 
 // Add services to the container.
 builder.Services.AddRazorPages();

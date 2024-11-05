@@ -36,7 +36,7 @@ namespace Complaintform
 
            
         }
-        public string Ask(string)
+        public string Ask(string fred)
         {
             return "hello";
         }

@@ -18,10 +18,10 @@ namespace Complaintform
             string answer;
 
             // MAIN LOOP
-            while (Reader.GetIndex() <= Reader.GetMaxLength())
+            while (Reader.GetIndex() < Reader.GetMaxLength())
             {
                 question = Reader.Read();
-                answer = Ui.Ask(question); // !!!Neo bitte mach d antwort so
+                answer = Ui.Ask(question); 
                 Console.WriteLine(answer);
 
             }
